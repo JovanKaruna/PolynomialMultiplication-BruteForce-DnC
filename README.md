@@ -11,11 +11,14 @@ Polynom Multiplication using Brute Force algorithm and Divide and Conquer algori
 1. `java Main`
 
 ### File Structure
-L Main.java
-L Library
-  L Global.java
-  L BruteForce.java
-  L DnC.java
+```
+       ├── Main.java
+       └── Library
+           ├── Global.java
+           ├── BruteForce.java
+           └── DnC.java           
+```
+
 
 ### Input
 n = polynom degrees to be randomly generated
